@@ -1,14 +1,41 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text"
+      "rich-text",
+      "info-card#button-right",
+      "info-card#button-left"
     ]
   },
   "rich-text":{
     "props":{
       "text":"**Hello, World!**",
-      "textPosition":"RIGHT"
-      
+      "textPosition":"RIGHT"      
+    }
+  },
+  "info-cad#button-right":{
+    "propos":{
+      "isFullModeStyle":false,
+      "textPosition":"RIGHT",
+      "imageUrl":"https://appliancetheme.vteimg.com.br/arquivos/cozinha-rosa-min-png",
+      "headline":"Vintage Pink",
+      "subhead":"Give you kitchen a boho style adding vintage appares.<br>Available until january 2020.",
+      "callToActionMode":"button",
+      "callActionText":"Explore",
+      "callActionUrl":"/sale/d",
+    "textAlignment":"center"
+    }
+  },
+  "info-card#button-left":{
+    "propos":{
+      "isFullModeStyle":false,
+      "textPosition":"left",
+      "headline":"Shining chrome",
+      "subhead":"Give your kitchen a coll style adding warm metallic finishes.<br>Available until January 2020.",
+      "callToActionMode":"link",
+      "callActionText":"Go to Collection",
+      "callActionUrl":"/sale/d",
+      "textAlignment":"center"
     }
   }
+
 }
