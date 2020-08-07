@@ -20,7 +20,7 @@
       "headline":"Vintage Pink",
       "subhead":"Give you kitchen a boho style adding vintage appares.<br>Available until january 2020.",
       "callToActionMode":"button",
-      "callActionText":"Explore",
+      "callToActionText":"Explore",
       "callActionUrl":"/sale/d",
     "textAlignment":"center",
     "blockClass":"vintage"
@@ -34,7 +34,7 @@
       "headline":"Shining chrome",
       "subhead":"Give your kitchen a coll style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode":"link",
-      "callActionText":"Go to Collection",
+      "callToActionText":"Go to Collection",
       "callActionUrl":"/sale/d",
       "textAlignment":"center",
       "blockClass":"metal"
