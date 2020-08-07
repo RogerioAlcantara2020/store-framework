@@ -7,6 +7,9 @@
     padding: 24px;
 }
 
+.infoCardCallActionContainer{
+    max-width: 1260px;
+}
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: blue;
@@ -31,11 +34,11 @@
     margin: 0;
     padding: 0;
 }
-  .infoCardImage --major-appliance {
+  /* .infoCardImage --major-appliance {
     max-width: 1260px;
     margin: 0;
     padding: 0;
-}
+} */
 
  /* 
 .infoCardContainer--vintage {
