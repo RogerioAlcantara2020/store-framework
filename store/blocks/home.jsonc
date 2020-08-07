@@ -8,8 +8,9 @@
     "flex-layout.row":{
       "flex-layout.col":[
         "info-card#rethink",
-      "rich-text#deletar"
+      "flex-layout.col"
       ]
+    }
     },
 "info-card#rethink":{
   "props":{
@@ -21,12 +22,26 @@
   }
 },
 
-"rich-text#deletar":{
+"flex-layout.col":{
+  "children":[
+    "image#eletronics",
+    "image#major-applicance"
+  ]
+},
+
+"image#eletronics":{
   "props":{
-    "text":"I'll be deleted soon"
+ "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/electronics_banner___25d69b49f8224b369375e68513b4d593.png",
+ "maxWidth":"100%"
   }
-}
-  },
+},
+
+"image#major-applicnce":{
+  "props":{
+    "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png", "maxWidth":"100%"
+  }
+},
+
   "info-card#button-right":{
     "props":{
       "isFullModeStyle":false,
