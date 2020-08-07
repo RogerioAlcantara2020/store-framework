@@ -22,13 +22,14 @@
     background-color: #edcfd1;
   }
 
-  
-  /* .infoCardCallActionContainer :global(.vtex-image) {
+
+ .infoCardCallActionContainer :global(.vtex-image) {
     max-width: 1260px;
     margin: 0;
     padding: 0;
 }
 
+ /* 
 .infoCardContainer--vintage {
     background-color: #edcfd1
   }
