@@ -15,13 +15,13 @@
   "info-card#button-right":{
     "props":{
       "isFullModeStyle":false,
-      "textPosition":"RIGHT",
+      "textPosition":"right",
       "imageUrl":"https://appliancetheme.vteimg.com.br/arquivos/cozinha-rosa-min-png",
       "headline":"Vintage Pink",
       "subhead":"Give you kitchen a boho style adding vintage appares.<br>Available until january 2020.",
       "callToActionMode":"button",
-      "callActionText":"Explore",
-      "callActionUrl":"/sale/d",
+      "callToActionText":"Explore",
+      "callToActionUrl":"/sale/d",
     "textAlignment":"center"
     }
   },
@@ -29,11 +29,12 @@
     "props":{
       "isFullModeStyle":false,
       "textPosition":"left",
+      "imageUrl":"https://appliancetheme.vteimg.com.br/arquivos/cozinha-rosa-min-png",
       "headline":"Shining chrome",
       "subhead":"Give your kitchen a coll style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode":"link",
-      "callActionText":"Go to Collection",
-      "callActionUrl":"/sale/d",
+      "callToActionText":"Go to Collection",
+      "callToActionUrl":"/sale/d",
       "textAlignment":"center"
     }
   }
