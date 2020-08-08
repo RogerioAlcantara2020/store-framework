@@ -31,13 +31,17 @@
       "flex-layout.col"
     ]
   },
-
-  "flex-layout.col":{
-    "children":[
-      "image#electronics",
-      "image#major-appliance"
-    ]
+  
+  "info-card#rethink": {
+    "props": {
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
+      "isFullModeStyle": true,
+      "headline": "Time to rethink your kitchen",
+      "callToActionText": "Discover",
+      "textPosition": "center"
+    }
   },
+
   "image#eletronics": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/electronics_banner___25d69b49f8224b369375e68513b4d593.png",
