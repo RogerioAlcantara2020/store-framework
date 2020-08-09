@@ -19,9 +19,9 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "flex-layout.col"
-      //     "image#eletronics",
-  //     "image#major-appliacnce"  
+      "flex-layout.col",
+          "image#e/letronics",
+      "image#major-appliacnce"  
     ]
   },
     
