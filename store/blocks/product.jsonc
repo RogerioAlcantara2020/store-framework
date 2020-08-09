@@ -1,7 +1,7 @@
 {
   "store.product": {
     "children": [
-      "breadcrumb"
+      "breadcrumb",
       "flex-layout.row#main"
     ]
   },
@@ -10,7 +10,7 @@
     "props": { 
       "marginTop": 6
     },
-    
+
     "children": [
       "flex-layout.col#left",
       "flex-layout.col#right"
@@ -29,7 +29,7 @@
       "product-name", 
       "product-identifier.product",
       "product-price",
-      "flex-layout.row#qty-sku"
+      "flex-layout.row#qty-sku",
       "buy-button"
     ],
 
