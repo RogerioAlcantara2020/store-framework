@@ -23,7 +23,7 @@
 
   "flex-layout.col#right": {
     "children": [
-      "product-images",
+      // "product-images",
       "product-name", 
       "product-price",
       "buy-button"
