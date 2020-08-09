@@ -29,10 +29,11 @@
       "buy-button"
     ]
   },
+
   "flex-layout.col#righ":{
     "props":{
       "verticalAlign":"middle",
-      "preventVerticalStretch":true
+      "preventVerticalStretch":false
     }
   },
   
