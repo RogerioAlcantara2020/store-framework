@@ -19,11 +19,14 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "flex-layout.col",
-          "image#e/letronics",
-      "image#major-appliacnce"  
+      "flex-layout.col"   
     ]
   },
+
+  "flex-layout.col":[
+    "image#e/letronics",
+    "image#major-appliacnce" ]
+  ,
     
   "info-card#rethink": {
     "props": {
