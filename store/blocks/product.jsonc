@@ -30,6 +30,8 @@
       "product-identifier.product",
       "product-price",
       "flex-layout.row#qty-sku",
+      "sku-selector",
+      "shipping-simulator",
       "buy-button"
     ],
 
@@ -39,6 +41,7 @@
     }
   },
 
+  
 
   "product-price":{
     "props":{
