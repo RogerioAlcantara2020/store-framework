@@ -27,16 +27,15 @@
       "product-name", 
       "product-price",
       "buy-button"
-    ]
-  },
-  
-  "flex-layout.col#right":{
-    "props":{
+    ],
+
+      "props":{
       "verticalAlign":"middle",
       "preventVerticalStretch":true
     }
   },
-  
+
+
   "product-price":{
     "props":{
       "showSavings":true,
