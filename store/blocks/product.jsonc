@@ -31,7 +31,8 @@
   },
   "flex-layout.col#righ":{
     "props":{
-      "verticalAlign":"middle"
+      "verticalAlign":"middle",
+      "preventVerticalStretch":true
     }
   },
   
