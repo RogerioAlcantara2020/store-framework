@@ -23,10 +23,13 @@
     ]
   },
 
-  "flex-layout.col":[
-    "image#e/letronics",
-    "image#major-appliacnce" ]
-  ,
+  "flex-layout.col":{
+    "children":  [
+      "image#e/letronics",
+      "image#major-appliacnce" ]
+  },
+
+
     
   "info-card#rethink": {
     "props": {
