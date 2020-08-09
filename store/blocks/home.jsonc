@@ -10,7 +10,7 @@
   },
 
   "flex-layout.row":{
-    "children": [
+    "flex-layout.col": [
       "info-card#rethink",
       "flex-layout.col"   
     ]
