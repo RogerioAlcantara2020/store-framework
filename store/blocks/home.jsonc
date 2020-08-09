@@ -19,7 +19,7 @@
   "flex-layout.col":{
     "children":  [
       "image#eletronics",
-      "image#major-appliacnce" ]
+      "image#major-appliance" ]
   },
 
   "info-card#rethink": {
