@@ -1,11 +1,9 @@
 {
   "store.product": {
     "children": [
+      "breadcrumb"
       "flex-layout.row#main"
     ],
-    "blocks":[
-      "breadcrumb"
-    ]
   },
 
   "flex-layout.row#main": { 
