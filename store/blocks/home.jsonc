@@ -22,10 +22,10 @@
       "flex-layout.col"
     ]
   },
-  "flex-layou.col":{
+  "flex-layout.col":{
     "children":[
       "image#eletronics",
-      "image#eletronics"      
+      "image#major-appliacnce"      
     ]
   },
   
