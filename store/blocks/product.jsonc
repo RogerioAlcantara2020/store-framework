@@ -28,6 +28,19 @@
       "product-price",
       "buy-button"
     ]
+  },
+  "flex-layout.col#righ":{
+    "props":{
+      "verticalAlign":"middle"
+    }
+  },
+  
+  "product-price":{
+    "props":{
+      "showSavings":true,
+      "showListPrice":true
+    }
   }
+
 
 }
