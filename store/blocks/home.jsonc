@@ -13,8 +13,6 @@
     "flex-layout.col": [
       "info-card#rethink",
       "flex-layout.col"
-      "image#eletronics",
-      "image#major-appliacnce"
     ]
   },
 
@@ -28,7 +26,7 @@
     "children":[
       "info-card#rethink",
       "image#eletronics",
-      "image#major-appliacnce"
+      "image#eletronics"      
     ]
   },
   
