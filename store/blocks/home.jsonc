@@ -22,6 +22,11 @@
       "flex-layout.col"
     ]
   },
+  "flex-layou.col":{
+    "children":[
+      "info-card#rethink"
+    ]
+  }
   
   "info-card#rethink": {
     "props": {
