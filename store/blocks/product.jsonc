@@ -30,7 +30,7 @@
     ]
   },
 
-  "flex-layout.col#righ":{
+  "flex-layout.col#right":{
     "props":{
       "verticalAlign":"middle",
       "preventVerticalStretch":false
