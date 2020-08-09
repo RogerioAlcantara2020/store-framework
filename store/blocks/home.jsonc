@@ -24,7 +24,9 @@
   },
   "flex-layou.col":{
     "children":[
-      "info-card#rethink"
+      "info-card#rethink",
+      "image#eletronics",
+      "image#major-appliacnce"
     ]
   },
   
