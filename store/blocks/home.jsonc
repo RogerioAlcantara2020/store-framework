@@ -20,15 +20,11 @@
     "children": [
       "info-card#rethink",
       "flex-layout.col"
+      //     "image#eletronics",
+  //     "image#major-appliacnce"  
     ]
   },
-  // "flex-layout.col":{
-  //   "children":[
-  //     "image#eletronics",
-  //     "image#major-appliacnce"      
-  //   ]
-  // },
-  
+    
   "info-card#rethink": {
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
