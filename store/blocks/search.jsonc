@@ -47,7 +47,7 @@
 
   "flex-layout.col#search":{
     "children":[
-      "filter-navigator.v3"
+      "search-content"
     ]
   }
 
