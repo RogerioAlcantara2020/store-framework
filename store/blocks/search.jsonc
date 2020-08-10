@@ -59,13 +59,13 @@
   },
 
   "gallery":{
-    "children":[
+    "blocks":[
       "product-summary.shelf"
     ]
   },
 
   "product-summary.shelf":{
-    "blocks":[
+    "children":[
       "product-summary-sku-selector"
     ]
   }
