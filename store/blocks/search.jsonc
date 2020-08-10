@@ -51,7 +51,7 @@
     ]
   },
 
-  "serach-content":{
+  "search-content":{
     "blocks":[
       "gallery",
       "not-found"
