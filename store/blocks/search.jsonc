@@ -49,6 +49,13 @@
     "children":[
       "search-content"
     ]
+  },
+
+  "serach-content":{
+    "blocks":[
+      "gallery",
+      "not-found"
+    ]
   }
 
 }
