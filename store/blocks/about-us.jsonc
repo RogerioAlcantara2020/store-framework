@@ -30,7 +30,7 @@
       "tabl-list.item#home1":{
         "props":{
             "tabId": "majorAppliances",
-            "label":"Major Appliances" 
+            "text":"Major Appliances" 
         }
       },
 
