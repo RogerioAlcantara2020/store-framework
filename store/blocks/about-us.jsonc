@@ -43,12 +43,12 @@
         }
       },
 
-      "tab-content#home":{
-          "children":[
-            "content.item#home1",
-            "tab-content.item#home2"
-          ]
-      },
+    //   "tab-content#home":{
+    //       "children":[
+    //         "content.item#home1",
+    //         "tab-content.item#home2"
+    //       ]
+    //   },
       "tab-content.item#home1,":{
           "children":[
               "rich-text#home1"
