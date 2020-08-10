@@ -43,7 +43,11 @@
     ],
       "props":{
         "displayMode":"logo",
-        "height":3,
+        "height":3
+      }
+    },
+    "sku-selector":{
+      "prop":{
         "initialSelection":"empty"
       }
     },
