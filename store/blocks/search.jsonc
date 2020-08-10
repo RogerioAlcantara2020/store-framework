@@ -59,7 +59,7 @@
   },
 
   "gallery":{
-    "blocks":[
+    "children":[
       "product-summary.shelf"
     ]
   },
