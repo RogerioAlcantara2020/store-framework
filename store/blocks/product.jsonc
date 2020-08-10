@@ -49,7 +49,7 @@
     "sku-selector":{
       "props":{
         "initialSelection":"image",
-        "showVariationsLabels": true,
+        "showValueForVariation":true,
         "showVariationsErrorMessage": true
       }
     },
