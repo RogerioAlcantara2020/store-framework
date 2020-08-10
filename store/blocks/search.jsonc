@@ -59,7 +59,7 @@
   },
 
   "gallery":{
-    "block":[
+    "blocks":[
       "product-summary.shelf"
     ]
   }
