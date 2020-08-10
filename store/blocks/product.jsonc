@@ -48,8 +48,8 @@
     },
     "sku-selector":{
       "props":{
-        "initialSelection":"empty",
-        "showVariationsLabels": true
+        "initialSelection":"image"
+        // "showVariationsLabels": true
       }
     },
 
