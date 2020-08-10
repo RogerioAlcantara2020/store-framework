@@ -27,10 +27,11 @@
           ]
       },
 
+    //   tab-list.item#home1
       "tab-list.item#home1":{
         "props":{
             "tabId": "majorAppliances",
-            "text":"Major Appliances" 
+            "label":"Major Appliances" 
         }
       },
 
