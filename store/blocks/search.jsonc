@@ -62,6 +62,12 @@
     "blocks":[
       "product-summary.shelf"
     ]
+  },
+
+  "product-summary.shelf":{
+    "blocks":[
+      "product-summary-sku-selector"
+    ]
   }
 
 }
