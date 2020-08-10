@@ -51,7 +51,7 @@
         
       },
       "tab-content.item#home2,":{
-          "child":[
+          "children":[
               "rich-text#home2"
             ]              
           
