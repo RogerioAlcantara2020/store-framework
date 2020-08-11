@@ -1,0 +1,16 @@
+{
+    "store.custom#landing": { 
+      "blocks": [
+        "image#landingbanner", 
+        "search-result-layout.customQuery"
+      ]
+    },
+
+    "search-result-layout.customQuery":{
+        "props":{
+            "orderByField":"OrderByReleaseDateDESC",
+            "hideUnavailableItems":true,
+            "maxItemsPerPage":8
+        }
+    }
+  }
