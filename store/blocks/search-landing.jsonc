@@ -5,7 +5,12 @@
         "search-result-layout.customQuery"
       ]
     },
-
+"image#landingbanner":{
+  "props":{
+    "src":"https://www.selecoes.com.br/wp-content/uploads/2020/07/iStock-1218213344-705x450.jpg",
+    "minWidth ":"100%"
+  }
+},
     "search-result-layout.customQuery":{
         "props":{
             "orderByField":"OrderByReleaseDateDESC",
