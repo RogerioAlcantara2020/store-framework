@@ -73,6 +73,10 @@
     },
 
        "tab-list.item#home2": {
+           "children":[
+            "iframe"
+           ],
+
         "props": {
             "tabId": "Instagram",
             "label": "Instagram"
