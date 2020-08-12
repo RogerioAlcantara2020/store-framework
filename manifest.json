@@ -9,7 +9,7 @@
   "scripts": {
     "postreleasy": "vtex publish --verbose"
   },
-  "dependencies": {
+    "dependencies": {
     "vtex.store-icons":"0.x",
     "vtex.store": "2.x",
     "vtex.store-header": "2.x",
