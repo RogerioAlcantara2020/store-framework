@@ -13,7 +13,7 @@
       "props": {
         "id": "menu-item-major-appliances"
       },
-      "children":[
+      "blocks":[
           "vtex.menu@2.x:submenu#major"
       ]
     },
