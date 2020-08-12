@@ -7,7 +7,7 @@
         "text": "Major Aplliances"
       },
       "blocks":[
-        "vtex.menu@2.x:submenu#majorcorr"
+        "vtex.menu@2.x:submenu#major"
       ]
     }
   },
