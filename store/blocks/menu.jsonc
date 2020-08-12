@@ -13,7 +13,7 @@
 
     "menu-item#major-applicances": {
         "children": [
-            "vtex.menu@2.x:submenu#major",
+            "vtex.menu@2.x:submenu#major"
         ]
     },
 
