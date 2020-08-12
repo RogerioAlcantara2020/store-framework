@@ -6,7 +6,7 @@
         "menu-item#electronics"
       ],
       "props": {
-        "orientation": "vertical"
+        "orientation": "horizontal"
       }
     },
     "menu-item#major-appliances": {
