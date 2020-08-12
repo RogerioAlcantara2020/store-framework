@@ -13,7 +13,7 @@
       "props": {
         "id": "menu-item-major-appliances"
       },
-      "blocks": ["vtex.menu@2.x:submenu#major"]
+      "children": ["vtex.menu@2.x:submenu#major"]
     },
 
     "menu-item#small-appliances": {
@@ -39,6 +39,7 @@
         "orientation": "vertical"
       }
     },
+
     "vtex.menu@2.x:submenu#small": {
       "children": [
         "vtex.menu@2.x:menu#small"
