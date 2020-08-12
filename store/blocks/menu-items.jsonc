@@ -73,7 +73,7 @@
   },
 
   "vtex.menu@2.x:menu#small":{
-    "children":["menu-item#mixers","menu-item#toaster","menu-item#coffee"],
+    "children":["menu-item#mixers","menu-item#toaster","menu-item#coffee"]
   },
   
   "menu-item#mixers": {
@@ -83,11 +83,12 @@
       "highlight": true,
       "itemProps": {
         "categoryId": 7, 
-        "text": "Mixers & Blenders",
+        "text": "Mixers & Blenders"
         
       }
     }
   },
+  
   "menu-item#toasters": {
       "props":
     {
