@@ -73,7 +73,7 @@
   },
 
   "vtex.menu@2.x:menu#small":{
-    "children":["menu-item#mixers","menu-item#toaster","menu-item#coffee"]
+    "blocks":["menu-item#mixers","menu-item#toaster","menu-item#coffee"]
   },
   
   "menu-item#mixers": {
@@ -88,7 +88,7 @@
       }
     }
   },
-  
+
   "menu-item#toasters": {
       "props":
     {
