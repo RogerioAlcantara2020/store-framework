@@ -9,6 +9,7 @@
         "orientation": "horizontal"
       }
     },
+    
  
   
 
@@ -16,17 +17,6 @@
       "children": [
         "vtex.menu@2.x:menu#major"
       ]
-    },
-    "vtex.menu@2.x:menu#major": {
-      "children": [
-        "menu-item#refrigerators",
-        "menu-item#ovens",
-        "menu-item#washers"
-      ],
-      "props": {
-        "width": "auto",
-        "orientation":"vertical"
-      }
     },
 
     "vtex.menu@2.x:submenu#small": {
