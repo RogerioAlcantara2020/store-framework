@@ -21,10 +21,10 @@
       "menu-item#ovens",
       "menu-item#washers"
     ],
-    
+
     "props": {
       "orientation": "vertical"
-    },
+    }
   },
 
 
