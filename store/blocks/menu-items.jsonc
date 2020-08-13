@@ -1,5 +1,4 @@
 {
-  
   "menu-item#major-appliances": {
       "props": {
       "type": "custom",
@@ -13,10 +12,6 @@
     }
   },
 
-  "menu-item#small-applicance":{
-
-  },
-
  "vtex.menu@2.x:menu#major": {
       "children": [
         "menu-item#refrigerators",
@@ -28,24 +23,6 @@
         "orientation":"vertical"
       }
     },
-
-    "vtex.menu@2.x:menu#categories":{
-      "blocks":[
-        "menu-item#major-applicances",
-        "menu-item#small-applicances",
-        "menu-item#electronics"
-      ],
-
-      "props":{
-        "orientation":"horizontal"
-      }
-    },
-
-    "vtex.menu@2.x:submenu#major":{
-      "children":["vtex.menu@2.x:menu#major"]
-    },
-
-
   "menu-item#small-appliances": {
       "props":
     {
@@ -58,7 +35,7 @@
       "blocks": ["vtex.menu@2.x:submenu#small"]
     }
   },
-  "vtex.menu@2.x:menu#electronics": {
+  "menu-item#electronics": {
       "props":
     {
       "type": "category",
@@ -67,18 +44,83 @@
         "categoryId": 3, 
         "text": "Electronics"
       },
-      "children": ["menu-item#cameras","menu-item#laptops","menu-item#tvs"]
+      "blocks": ["vtex.menu@2.x:submenu#electronics"]
+    }
+  },
+
+  "menu-item#refrigerators": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 4, 
+        "text": "Refrigerators"
+      }
+    }
+  },
+  "menu-item#ovens": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 5, 
+        "text": "Ranges & Ovens"
+      }
+    }
+  },
+  "menu-item#washers": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 6, 
+        "text": "Washers & Dryers"
+      }
     }
   },
 
   "vtex.menu@2.x:menu#small":{
-    "children":["menu-item#mixers","menu-item#toaster","menu-item#coffee"],
-    "props":{
-      "orientation":"vertical"
-    }
+    "blocks":["menu-item#mixers","menu-item#toaster","menu-item#coffee"]
   },
   
-  
+  "menu-item#mixers": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 7, 
+        "text": "Mixers & Blenders"
+        
+      }
+    }
+  },
+
+  "menu-item#toasters": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 8, 
+        "text": "Toasters & Grills"
+      }
+    }
+  },
+  "menu-item#coffee": {
+      "props":
+    {
+      "type": "category",
+      "highlight": true,
+      "itemProps": {
+        "categoryId": 9, 
+        "text": "Coffee Makers"
+      }
+    }
+  },
   "menu-item#tvs": {
       "props":
     {
