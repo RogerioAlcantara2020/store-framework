@@ -8,11 +8,7 @@
         "text": "Major Aplliances"        
       },
       "children":[
-        "vtex.menu@2.x:menu#major",
-        "vtex.menu@2.x:submenu#major",        
-        "vtex.menu@2.x:menu#electronics",
-        "vtex.menu@2.x:menu#categories",
-        "vtex.menu@2.x:submenu#small"
+        "vtex.menu@2.x:submenu#major"
       ]
     }
   },
