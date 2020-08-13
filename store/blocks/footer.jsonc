@@ -20,7 +20,7 @@
         }
       },
 
-      "flex-layout.col#footer-let-desktop":{
+      "flex-layout.col#footer-left-desktop":{
           "children":[
               "accepted-payment-methods"
           ]
