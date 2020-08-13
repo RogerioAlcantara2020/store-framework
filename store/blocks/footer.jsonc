@@ -44,7 +44,7 @@
           ]
       },
 
-      "social-Networks":{
+      "social-networks":{
           "props":{
               "showInColor":true,
               "socialNetworks":[
