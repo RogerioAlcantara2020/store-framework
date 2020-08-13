@@ -12,17 +12,6 @@
     }
   },
 
-//  "vtex.menu@2.x:menu#major": {
-//       "children": [
-//         "menu-item#refrigerators",
-//         "menu-item#ovens",
-//         "menu-item#washers"
-//       ],
-//       "props": {
-//         "width": "auto",
-//         "orientation":"vertical"
-//       }
-//     },
   "menu-item#small-appliances": {
       "props":
     {
