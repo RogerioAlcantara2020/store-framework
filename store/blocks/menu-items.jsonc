@@ -57,7 +57,7 @@
       "blocks": ["vtex.menu@2.x:submenu#small"]
     }
   },
-  "menu-item#electronics": {
+  "vtex.menu@2.x:menu#electronics": {
       "props":
     {
       "type": "category",
