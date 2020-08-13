@@ -10,11 +10,6 @@
       }
     },
     
-  "menu-item#major-appliances":{
-    "children":[
-      "vtex.@2.x:submenu#major"
-    ]
-  },
 
     "vtex.menu@2.x:submenu#major": {
       "children": [
