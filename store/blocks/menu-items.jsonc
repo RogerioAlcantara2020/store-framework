@@ -7,10 +7,14 @@
       "itemProps": {
         "text": "Major Aplliances"        
       },
-      "children":[
+      "blocks":[
         "vtex.menu@2.x:submenu#major"
       ]
     }
+  },
+
+  "menu-item#small-applicance":{
+
   },
 
  "vtex.menu@2.x:menu#major": {
