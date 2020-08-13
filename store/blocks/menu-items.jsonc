@@ -4,7 +4,8 @@
       "type": "custom",
       "highlight": true,
       "itemProps": {
-        "text": "Major Aplliances"
+        "text": "Major Aplliances",
+        "orientation":"vertical"
       },
       "blocks":[
         "vtex.menu@2.x:submenu#major"
@@ -37,7 +38,7 @@
       "blocks": ["vtex.menu@2.x:submenu#electronics"]
     }
   },
-  
+
   "menu-item#refrigerators": {
       "props":
     {
