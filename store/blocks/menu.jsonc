@@ -9,15 +9,7 @@
         "orientation": "horizontal"
       }
     },
-    "menu-item#major-appliances": {
-      "props": {
-        "id": "menu-item-major-appliances"
-      },
-      "blocks":[
-          "vtex.menu@2.x:submenu#major"
-      ]
-    },
-
+ 
   
 
     "vtex.menu@2.x:submenu#major": {
@@ -33,7 +25,7 @@
       ],
       "props": {
         "width": "auto",
-        "orientation": "vertical"
+        "orientation":"vertical"
       }
     },
 

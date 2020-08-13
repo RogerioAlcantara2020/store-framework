@@ -3,6 +3,7 @@
       "props": {
       "type": "custom",
       "highlight": true,
+      "id": "menu-item-major-appliances",
       "itemProps": {
         "text": "Major Aplliances"
       },
@@ -11,7 +12,6 @@
       ]
     }
   },
-
 
 
   "menu-item#small-appliances": {
