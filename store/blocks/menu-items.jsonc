@@ -1,4 +1,5 @@
 {
+
   "menu-item#major-appliances": {
       "props": {
       "type": "custom",
@@ -12,17 +13,7 @@
     }
   },
 
- "vtex.menu@2.x:menu#major": {
-      "children": [
-        "menu-item#refrigerators",
-        "menu-item#ovens",
-        "menu-item#washers"
-      ],
-      "props": {
-        "width": "auto",
-        "orientation":"vertical"
-      }
-    },
+
   "menu-item#small-appliances": {
       "props":
     {
@@ -82,11 +73,7 @@
     }
   },
 
-  "vtex.menu@2.x:menu#small":{
-    "blocks":["menu-item#mixers","menu-item#toaster","menu-item#coffee"]
-  },
-  
-  "menu-item#mixers": {
+   "menu-item#mixers": {
       "props":
     {
       "type": "category",
