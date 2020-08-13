@@ -34,9 +34,9 @@
 
   "image#menu":{
       "props":{
-          "src":"https://applicancetheme.vteximg.com.br/arquivos/menu-washer.jpg",
+          "src":"https://appliancetheme.vteximg.com.br/arquivos/menu-washer.jpg",
           "link":{
-              "url":"/small-applicances/coffe-makers"
+              "url":"/small-appliances/coffe-makers"
           },
           "alt":"Coffee Makers Collection",
           "maxWidth":"200px"
