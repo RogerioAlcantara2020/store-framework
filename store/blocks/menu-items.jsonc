@@ -3,7 +3,6 @@
       "props": {
       "type": "custom",
       "highlight": true,
-      "id": "menu-item-major-appliances",
       "itemProps": {
         "text": "Major Aplliances"
       },
@@ -38,6 +37,7 @@
       "blocks": ["vtex.menu@2.x:submenu#electronics"]
     }
   },
+  
   "menu-item#refrigerators": {
       "props":
     {

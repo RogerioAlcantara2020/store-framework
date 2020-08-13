@@ -35,7 +35,7 @@
       ]
     },
     "vtex.menu@2.x:menu#small": {
-      "hildren": [
+      "children": [
         "menu-item#mixers",
         "menu-item#toasters",
         "menu-item#coffee"
