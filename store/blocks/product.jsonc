@@ -38,7 +38,7 @@
   },   
   
   "product-brand":{
-    "blocks":[
+    "children":[
       "sku-selector"
     ],
       "props":{
